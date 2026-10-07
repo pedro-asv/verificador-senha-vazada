@@ -1,9 +1,3 @@
-
-> ⚠️ **Status: planejado, ainda não implementado.** Este README descreve o
-> projeto como ele deveria funcionar, mas o código (`verificador.py`,
-> `requirements.txt`) ainda não está neste repositório. Veja o aviso no
-> final da conversa sobre isso.
-
 # 🔐 Verificador de Senha Vazada
 
 Ferramenta de linha de comando (CLI) em Python que verifica se uma senha já
